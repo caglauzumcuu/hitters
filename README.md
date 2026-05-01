@@ -96,7 +96,7 @@ jupyter notebook baseball_salary.ipynb
 ---
 
 ## Gereksinimler
-
+```
 pandas>=2.0
 numpy>=1.24
 scikit-learn>=1.3
@@ -107,6 +107,7 @@ optuna>=3.0
 matplotlib>=3.7
 seaborn>=0.12
 joblib>=1.3
+```
 ---
 
 ## Lisans
