@@ -87,8 +87,8 @@ GridSearch yerine Optuna kullanıldı:
 ## Kurulum
 
 ```bash
-git clone https://github.com/caglauzumcuu/Hitters.git
-cd Hitters
+git clone https://github.com/caglauzumcuu/hitters.git
+cd hitters
 pip install -r requirements.txt
 jupyter notebook Hitters.ipynb
 ```
