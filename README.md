@@ -88,9 +88,9 @@ GridSearch yerine Optuna kullanıldı:
 
 ```bash
 git clone https://github.com/kullanici_adin/baseball-salary-prediction.git
-cd baseball-salary-prediction
+cd Hitters
 pip install -r requirements.txt
-jupyter notebook baseball_salary.ipynb
+jupyter notebook Hitters.ipynb
 ```
 
 ---
